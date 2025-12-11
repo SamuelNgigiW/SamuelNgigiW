@@ -1,10 +1,20 @@
-# About me 👋
+# About me 👩‍💻👋
 
 Welcome to my cybersecurity hub! 🚀 I’m passionate about securing networks and endpoints, with certifications in Cisco Network Defense, Cisco Endpoint Security, and CompTIA Junior Security Analyst Practitioner (Infosec 4TC). I’ve had the privilege of working with reputable organizations like NTSA, Pesa Print Bureau, Kenya Revenue Authority and Sammag Investment, where I’ve honed my skills in network defense, endpoint security, and overall IT risk management.
 
 This repo showcases my hands-on work with penetration testing, vulnerability assessments, cryptography, and security tool development. Whether it’s CTF challenges or real-world defense strategies, I’m dedicated to contributing to a safer digital world. 🔐
 
 Feel free to explore, collaborate, or contribute!
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium%20Skin%20Tone.png" alt="Man Bouncing Ball Medium Skin Tone" width="100" height="120" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium%20Skin%20Tone.png" alt="Man Bouncing Ball Medium Skin Tone" width="100" height="120" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Bouncing%20Ball%20Medium%20Skin%20Tone.png" alt="Man Bouncing Ball Medium Skin Tone" width="100" height="120" />
+</div>
+
+###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -53,9 +63,12 @@ Feel free to explore, collaborate, or contribute!
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelNgigiW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelNgigiW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -65,4 +78,6 @@ Feel free to explore, collaborate, or contribute!
 </div>
 
 ###
+
+
 
